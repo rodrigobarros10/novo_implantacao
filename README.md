@@ -125,3 +125,4 @@ Centraliza acesso aos dados de metadados, facilitando testes e manutenção.
 
 Ver seções abaixo para detalhes de cada componente.
 # novo_implantacao
+# novo_implantacao
